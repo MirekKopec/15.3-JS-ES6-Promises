@@ -1,0 +1,17 @@
+{
+  "name": "15.5_React.JS_GIFSearch_promises",
+  "version": "1.0.0",
+  "description": "My learning projects from Kodilla Bootcamp: Javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " title 15.5_React.JS_GIFSearch_promises_server && http-server -a localhost -p 8082 -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.11.1"
+  }
+}
